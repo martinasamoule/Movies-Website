@@ -1,0 +1,56 @@
+.Header
+{
+    font-size: 50px;
+    font-weight: bold;
+}
+.contactcol
+{
+    background-color: #ecebeb;
+    border-radius: 2%;
+    -webkit-border-radius: 2%;
+    -moz-border-radius: 2%;
+    -ms-border-radius: 2%;
+    -o-border-radius: 2%;
+    margin-bottom: 1%;
+    height: fit-content ;
+}
+.Imgdiv
+{
+    width: 80%;
+    text-align: center;
+    height: 55%;
+    margin-left: 100px;
+    border-radius: 7%;
+    margin-bottom: 30px;
+    
+}
+.Imgdiv img
+{
+    max-width: 100%;
+    max-height: 100%;
+    border-radius: 7%;
+    -webkit-border-radius: 7%;
+    -moz-border-radius: 7%;
+    -ms-border-radius: 7%;
+    -o-border-radius: 7%; 
+    margin-top: 20px;  
+}
+.textdiv
+{
+    font-size: 30px;
+}
+.TextHeader
+{
+    font-size: 30px;
+    font-weight: bold;
+}
+.Text
+{
+    font-size: 20px;
+}
+#Link
+{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+
+}

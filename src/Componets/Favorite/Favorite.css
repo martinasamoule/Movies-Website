@@ -1,0 +1,63 @@
+.myrow
+{  
+    margin-bottom: 20px;
+    background-color: #ecebeb ;
+}
+.Header
+{
+    font-size: 50px;
+    font-weight: bold;
+}
+.Para
+{
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.minimizecol
+{
+    text-align: center;
+    background-color:white;
+    overflow: hidden;
+    margin: 10px;    
+}
+.imgdiv
+{
+    width: 80%;
+    text-align: center;
+    height: 75%;
+    overflow: hidden;
+    margin-left: 28px;
+    margin-top: 10px;
+    border-radius: 7%;
+
+}
+.myrow img
+{
+    max-width: 100%;
+    border-radius: 7%;
+    -webkit-border-radius: 7%;
+    -moz-border-radius: 7%;
+    -ms-border-radius: 7%;
+    -o-border-radius: 7%;
+    transition-property: all;
+    transition-duration: 3s;
+    
+}
+#Link
+{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+
+}
+.PageText
+{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.loader .spinner-border
+{
+    width: 100px;
+    height: 100px;
+}
